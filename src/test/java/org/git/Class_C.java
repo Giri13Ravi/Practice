@@ -15,6 +15,14 @@ public class Class_C {
 	private void Code_Sharing() {
 		System.out.println("Git");
 	}
+	
+	private void sudalai() {
+		System.out.println("thatthi");
+	}
+	
+	private void sinnathathi() {
+		System.out.println("Rising_Fund");
+	}
 
 	
 
