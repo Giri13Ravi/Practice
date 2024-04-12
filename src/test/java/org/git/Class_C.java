@@ -24,6 +24,14 @@ public class Class_C {
 		System.out.println("Rising_Fund");
 	}
 
+	private void others() {
+		System.out.println("time_out");
+	}
+	
+	private void current() {
+		System.out.println("No power");
+	}
+
 	
 
 }
