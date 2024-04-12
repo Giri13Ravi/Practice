@@ -15,6 +15,14 @@ public class Class_C {
 	private void Code_Sharing() {
 		System.out.println("Git");
 	}
+	
+	private void others() {
+		System.out.println("time_out");
+	}
+	
+	private void current() {
+		System.out.println("No power");
+	}
 
 	
 
