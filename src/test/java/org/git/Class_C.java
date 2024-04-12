@@ -16,6 +16,14 @@ public class Class_C {
 		System.out.println("Git");
 	}
 	
+	private void sudalai() {
+		System.out.println("thatthi");
+	}
+	
+	private void sinnathathi() {
+		System.out.println("Rising_Fund");
+	}
+
 	private void others() {
 		System.out.println("time_out");
 	}
